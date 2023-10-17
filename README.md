@@ -28,4 +28,3 @@ Confira meus repositórios no GitHub para ver minha evolução.
 
 https://github.com/nerypedrin01/agendaconsole)https://github.com/nerypedrin01/agendaconsole
 
-## Agradecimentos
