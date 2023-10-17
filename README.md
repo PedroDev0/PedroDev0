@@ -14,7 +14,7 @@ Olá! Sou um desenvolvedor Full Stack com experiência em Java, Angular e Action
 - **Linguagens de Programação:** Java, ActionScript 3, JavaScript e Python
 - **Frameworks:** Angular, Spring
 - **Bancos de Dados:** MySQL, Oracle
-- **Outras Habilidades:** Desenvolvimento Frontend e Backend, Controle de Versão com Git, Metodologias Agile
+- **Outras Habilidades:** Desenvolvimento Frontend e Backend, Controle de Versão com Git
 
 ## Contato
 
