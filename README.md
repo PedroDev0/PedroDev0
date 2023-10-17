@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá! Sou um desenvolvedor Full Stack com experiência em Java, Angular e ActionScript 3. Estou apaixonado por criar aplicações web e móveis de alto desempenho, além disso, estou constantemente buscando desafios que me permitam expandir minhas habilidades.
+Olá! Sou um desenvolvedor Full Stack com experiência em Java, Angular e ActionScript 3. Estou apaixonado por criar aplicações web e móveis de alto desempenho. Além disso estou constantemente buscando desafios que me permitam expandir minhas habilidades.
 
 - 🌐 Desenvolvedor Full Stack
 - ☕  Experiência em Java 
