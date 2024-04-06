@@ -19,7 +19,7 @@ Olá! Sou um desenvolvedor Full Stack com experiência em Java, Angular e Action
 
 ## Contato
 
-- LinkedIn: www.linkedin.com/in/pedro-h-563064a2
+- LinkedIn: [www.linkedin.com/in/pedro-h-563064a2](https://www.linkedin.com/in/pedro-alves-2169962b0/)
 - Email: pedronerydev@gmail.com
 
 
