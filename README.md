@@ -12,7 +12,7 @@ Olá! Sou um desenvolvedor Full Stack com experiência em Java, Angular e Action
 ## Habilidades
 
 - **Linguagens de Programação:** Java, ActionScript 3, JavaScript
-- **Frameworks:** Angular, Jakarta EE
+- **Frameworks:** Angular, Jakarta EE, Hibernate
 - **Tecnologias Java:** JPA, EJB
 - **Bancos de Dados:** MySQL, Oracle
 - **Ferramentas de Controle de Versão:** Git
@@ -21,11 +21,4 @@ Olá! Sou um desenvolvedor Full Stack com experiência em Java, Angular e Action
 
 - LinkedIn: [www.linkedin.com/in/pedro-h-563064a2](https://www.linkedin.com/in/pedro-alves-2169962b0/)
 - Email: pedronerydev@gmail.com
-
-
-## Contribuições
-
-Confira meus repositórios no GitHub para ver minha evolução.
-
-https://github.com/nerypedrin01
 
