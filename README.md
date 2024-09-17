@@ -13,8 +13,8 @@ Olá! Sou um desenvolvedor Full Stack com experiência em Java, Angular e Action
 
 - **Linguagens de Programação:** Java, ActionScript 3, JavaScript
 - **Frameworks:** Angular, Jakarta EE, Hibernate
-- **Tecnologias Java:** JPA, EJB
-- **Bancos de Dados:** MySQL, Oracle, Spring MVC, Spring Data
+- **Tecnologias Java:** JPA, EJB, Spring MVC, Spring Data
+- **Bancos de Dados:** MySQL, Oracle
 - **Ferramentas de Controle de Versão:** Git
 
 ## Contato
